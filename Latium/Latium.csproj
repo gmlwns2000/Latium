@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MessagePack" Version="1.7.3.4" />
+    <PackageReference Include="MessagePackAnalyzer" Version="1.6.0" />
     <PackageReference Include="OpenCvSharp4" Version="4.0.0.20190108" />
   </ItemGroup>
 
